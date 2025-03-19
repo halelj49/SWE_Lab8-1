@@ -1,10 +1,5 @@
 # SuperCoolProject
 
-<<<<<<< HEAD
-Guys ive had second thoughts, this is not as cool as I thought.
-
-Lawsonia
-=======
 Hello! Glad to see my homework repo is still being used. Maybe check out some of the other garbage I have kicking around on here?
 
 Pro tips for getting an A in Dr.Cerny's class. 
@@ -17,4 +12,3 @@ Pro tips for getting an A in Dr.Cerny's class.
   Do me a favor, if everyone here can tell Professor Fry congradulations on retirement, im sure she would be very greatful
   
   I would do that if I knew who she was. 
->>>>>>> 2dc0f692648222db5542f9a14fea70b5c31a0df3
